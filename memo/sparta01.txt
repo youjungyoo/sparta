@@ -1,0 +1,162 @@
+html/data
+
+html/c
+ss-client source
+
+database
+
+html/css
+
+html source
+
+database
+
+coding startwith <
+
+html/css
+
+html source
+
+database
+
+coding startwith <
+
+HTML=BONE
+
+TEXT(DATA)
+
+HTML = LINE
+
+CSS = COLOR
+
+
+client programmer
+
+HTML = HEAD/BODY
+
+H-INFORMATION(meta information)
+B-CONTENTS(TAG,TEXT,...)
+
+
+<title>Document</title>
+(tag open and close)
+
+<body>
+    
+</body>
+(important)
+
+ctrl s = save
+
+W3SCHOOL
+
+hi-bold
+div-divide영역을 나눈다
+p-문단을 나눈다
+
+
+<!DOCTYPE html>=주석
+<html lang="en">=속성
+
+!!!부모자식구조=!!!nested origamie
+
+<html = parents>
+
+<head - meta - title >
+
+<body - h1 - div-p
+
+
+<div>
+
+diport=기본값
+
+CSS=META DATA?=DECORATION=STYLE
+
+STACK OVERFLOW.COM
+
+주석=쓰지않겠다는거,다른개발자나 동료를 위해서 남겨놓는것
+
+
+google webfont
+
+bootstrap= CSS를 미리 모아둔 것
+bootstrap.com
+
+class=option
+
+
+import from internet = <link href
+
+everything is start with css grammer
+
+!!!import외부에서 적절한 자원을 끌어다가 쓰기
+
+Quick start
+Looking to quickly add Bootstrap to your project? Use BootstrapCDN, provided for free by the folks at StackPath. Using a package manager or need to download the source files? Head to the downloads page.
+
+컨퍼런트페이지=큰 
+286x180
+
+
+style
+-wrap
+-margin_auto,left,right
+-font size_5px
+
+코드는 처음부터 작성하지 않는다. 다 인터넷에서 가져다 쓴다.
+
+form
+
+btn btn-primary
+
+화면전체가 어떻게 그려지는지 큰 그림을 
+
+구글검색창에 English+한글 = 한글 껴 있는 쟈료 
+
+생활코딩.com=진지하게 코딩을 할 생각이 있다면
+
+
+
+ㅇㅇ용어,웹서비스자체가어떻게 흘러가는지 
+
+아두이노,사물인터넷
+
+
+
+기본은 안알랴줌
+
+
+api/open api
+
+url/type(웹 상의 약속)
+
+enter = get
+
+함수 호출:함수의 인자로 뭔가를 호출할 수 있다.
+
+물음표를 기준으로 쪼개진다.
+물음표 이후에 값을 이을때는 &로 이어서 나열한다.
+
+제이쿼리
+더블유쓰리스쿨
+
+에이작스
+어팬드
+
+콜백함수
+
+제이쿼리-하향추세 
+리엑스, 엥귤러, 뷰 -득세
+
+Search - jquery empty
+${변수명}-변수태그
+
+ul,lu검색(ul,li로 감싸주고 이런식으로 태그가 나오는 형태?)
+
+var ?
+
+scope개념을 정확하게 지켜주고 따라주고있음. 대부분의 모든 개념들이.
+
+javascript scope변수 이런식으로 검색하면 - 더 자세히 알 수 있음.
+
