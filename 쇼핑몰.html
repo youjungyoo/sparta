@@ -29,9 +29,18 @@
      
 
     </style>
+    <script>
+
+        $(document).ready(function(){
+            alert('이름을 입력해 주세요')
+          // 여기에 환율 API Ajax 요청을 하면 되겠죠?
+        });
+        
+        </script>
 </head>
 
 <body>
+   달러-원 환율:1227
     <center>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/HardCandy.jpg
      " />
@@ -39,13 +48,8 @@
         <span class="title">알사탕을 팝니다</span>
         <span>가격:5,000,000원/개</span>
         <div><span class="info">이 상품으로 말할 토끼가 용왕님의 간 대신 찾아먹었다는 진귀한 알사탕 입니다</span></div>
-        <div class="input-group mb-3">
-            <div class="input-group-prepend">
-                <span class="input-group-text" id="inputGroup-sizing-default">주문하기</span>
-            </div>
-            <input type="text" class="form-control" aria-label="Sizing example input"
-                aria-describedby="inputGroup-sizing-default">
-        </div>
+
+
         <div class="input-group mb-3">
             <div class="input-group-prepend">
                 <span class="input-group-text" id="inputGroup-sizing-default">주문자 성함</span>
@@ -74,7 +78,7 @@
             <input type="text" class="form-control" aria-label="Sizing example input"
                 aria-describedby="inputGroup-sizing-default">
         </div>
-        <button>로그인하기</button>
+        <button>주문하기</button>
         </center>
     </div>
 </body>
